@@ -31,7 +31,7 @@
 
 <!--            <mvc:exclude-mapping path="/login.action" />-->
 <!--            <mvc:exclude-mapping path="/login" />-->
-
+            <!---->
             <!-- 要是拦截到登录界面没有样式，就得释放这些资源 -->
             <mvc:exclude-mapping path="/css/**"/>
             <mvc:exclude-mapping path="/images/**"/>
